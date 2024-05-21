@@ -1,4 +1,4 @@
-## Hi there 👋
+## Namaste there 👋
 
 <!--
 **satyamm009/satyamm009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
