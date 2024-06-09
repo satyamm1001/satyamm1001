@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning ... Astro, Go, Fastify
+- 📫 How to reach me: ... satyam09.sm@gmail.com
+- ⚡ Fun fact: ... I like chess as well
